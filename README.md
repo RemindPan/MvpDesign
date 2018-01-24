@@ -63,11 +63,11 @@
 - [Android-SpinKit](https://github.com/ybq/Android-SpinKit)
 	：集成多种动画效果的Drawable，之前有看源码觉得代码封装得挺好，动画不仅仅只能用在View上
 - [filepicker](https://github.com/Angads25/android-filepicker)
-	：这个是用来处理PreferenceScreen的文件选中库，PreferenceScreen感觉平时不怎么看到使用，用法到时挺特别
+	：这个是用来处理PreferenceScreen的文件选中库
 - [tinker](https://github.com/Tencent/tinker)
 	：微信Android热补丁方案，功能强大，和其它热修补方案对比看这里[wiki](https://github.com/Tencent/tinker/wiki)
 - [DragSlopLayout](https://github.com/Rukey7/DragSlopLayout)
-	：一个辅助开发拖拽功能的库，这是我为了做这个App的某些功能封装的库- -，现在倒也有用在工作的项目上
+	：一个辅助开发拖拽功能的库。
 - [IjkPlayerView](https://github.com/Rukey7/IjkPlayerView)
 	：基于ijkplayer开发的播放器，也是为了做这个App的视频播放功能封装的库- -，里面加了弹幕功能，感兴趣可以看下
 - [TagLayout](https://github.com/Rukey7/TagLayout)
